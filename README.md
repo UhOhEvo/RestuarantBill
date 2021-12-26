@@ -1,0 +1,2 @@
+# RestuarantBill
+Simple arithmetic calculations
